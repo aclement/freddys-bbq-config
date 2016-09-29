@@ -1,16 +1,14 @@
 # Common properties for all applications go in this file
 branding:
-  restaurantName: Frank Underwood is a bad man
-  menuTitle: Freddy's Menu
+  restaurantName: PG Clucks
+  menuTitle: The Cluckin Menu
 
 menuBootstrap:
   items:
-    - name: Full Rack of Ribs
-      price: 20
-    - name: 1/2 Rack
-      price: 12
-    - name: 1 lb wings
-      price: 10
+    - name: Classic
+      price: 6.50
+    - name: Bahn Mi
+      price: 8.50
 
 targets:
   scheme: https
