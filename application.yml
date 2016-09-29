@@ -9,6 +9,8 @@ menuBootstrap:
       price: 20
     - name: 1/2 Rack
       price: 12
+    - name: 1 lb wings
+      price: 10
 
 targets:
   scheme: https
