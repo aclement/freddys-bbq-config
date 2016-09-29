@@ -1,6 +1,6 @@
 # Common properties for all applications go in this file
 branding:
-  restaurantName: Freddy's BBQ Joint
+  restaurantName: Frank Underwood is a bad man
   menuTitle: Freddy's Menu
 
 menuBootstrap:
